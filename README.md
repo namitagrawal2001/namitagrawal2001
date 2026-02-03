@@ -1,9 +1,33 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=namitagrawal2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=namitagrawal2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namitagrawal2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Hi 👋, I'm Namit Agrawal
+
+### AWS Cloud & DevOps Enthusiast | MCA Student
 
 ---
-[![](https://visitcount.itsvg.in/api?id=namitagrawal2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+- 🎓 MCA student  
+- ☁️ Interested in Cloud Computing & DevOps  
+- ⚙️ Working with AWS, Linux, Docker, Jenkins  
+- 🚀 Learning CI/CD & Automation  
+
+---
+
+### 🛠 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
+
+---
+
+### 📌 Projects
+- 🔹 Terraform EC2 Setup  
+- 🔹 CI/CD Pipeline with Jenkins  
+- 🔹 Strapi Local Setup  
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/your-link  
+- Portfolio: https://your-portfolio-link
